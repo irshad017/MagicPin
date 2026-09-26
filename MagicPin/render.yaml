@@ -23,8 +23,8 @@ services:
       - key: TEAM_NAME
         value: "Vera Reforged"
       - key: TEAM_MEMBERS
-        value: Ansh
+        value: Irshad
       - key: CONTACT_EMAIL
-        value: anshkrsingh004@gmail.com
+        value: irshad.hussain.ug23@gmail.com
       - key: BOT_VERSION
         value: "1.0.0"
